@@ -1,0 +1,10 @@
+Creating a new project or new job
+Changing work directory
+Creating users
+Creating pipelines
+Creating maven Project (vi /etc/profile, source /etc/profile,
+                        export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-11.0.16.0.8-1.amzn2.0.1.x86_64
+                        export PATH=$JAVA_HOME/bin:$PATH
+                        export MAVEN_HOME=/usr/share/maven
+Go to Jenkins Dashboard
+Create new maven project
